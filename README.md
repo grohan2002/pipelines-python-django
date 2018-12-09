@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rohan0894/simplifimed-bot-automation/_apis/build/status/grohan2002.pipelines-python-django)](https://dev.azure.com/rohan0894/simplifimed-bot-automation/_build/latest?definitionId=1)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
